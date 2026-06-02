@@ -110,14 +110,6 @@ bash src/open-r1-multimodal/run_scripts/run_vista.sh
 
 For grounding evaluation, please refer to [inclusionAI/UI-Venus](https://github.com/inclusionAI/UI-Venus). Configure the model checkpoint, dataset paths, image root, test split, and output path in the evaluation script before running it.
 
-Note that VISTA uses a different grounding prompt from the default UI-Venus prompt. Before running evaluation, update the prompt template in the UI-Venus evaluation script (for example, `QUESTION_TEMPLATE`, `question_template`, or the equivalent prompt field) to match the current training prompt defined in `src/open-r1-multimodal/src/open_r1/vista.py`:
-
-```text
-Output the center point of the position corresponding to the instruction: {Question}. The output should just be the coordinates of a point, in the format [x,y].
-```
-
-Results are written to the `OUTPUT_PATH` configured in the evaluation script.
-
 
 <!-- ## 📝 Citation
 
