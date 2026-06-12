@@ -2,13 +2,15 @@
 
 ## VISTA: View-Consistent Self-Verified Training for GUI Grounding
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2601.01483-b31b1b.svg)](https://arxiv.org/abs/2601.01483) -->
-[![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://zjuscl.github.io/VISTA)[![GitHub](https://img.shields.io/badge/Code-VISTA-000000?style=for-the-badge&logo=github)](https://github.com/ZJUSCL/VISTA)
+[![Project](https://img.shields.io/badge/Project-Page-007ec6?style=for-the-badge)](https://zjuscl.github.io/VISTA)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://zjuscl.github.io/VISTA/static/pdfs/vista.pdf)
+[![GitHub](https://img.shields.io/badge/Code-VISTA-000000?style=for-the-badge&logo=github)](https://github.com/ZJUSCL/VISTA)
+[![VISTA-4B](https://img.shields.io/badge/🤗%20Model-VISTA--4B-yellow?style=for-the-badge)](https://huggingface.co/inclusionAI/VISTA-4B)
+[![VISTA-9B](https://img.shields.io/badge/🤗%20Model-VISTA--9B-yellow?style=for-the-badge)](https://huggingface.co/inclusionAI/VISTA-9B)
 
 <p><strong>VISTA improves GUI grounding by building GRPO comparison groups from target-preserving views and stabilizing coordinate generation with a self-verified cross-view anchor.</strong></p>
 
 </div>
-
 ## 📈 Training Dynamics
 
 <div align="center">
