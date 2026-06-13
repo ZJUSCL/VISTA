@@ -11,6 +11,7 @@
 <p><strong>VISTA improves GUI grounding by building GRPO comparison groups from target-preserving views and stabilizing coordinate generation with a self-verified cross-view anchor.</strong></p>
 
 </div>
+
 ## 📈 Training Dynamics
 
 <div align="center">
