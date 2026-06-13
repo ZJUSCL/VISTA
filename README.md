@@ -41,7 +41,7 @@ VISTA achieves higher content reward and produces more informative comparison gr
 These stronger training signals translate into higher ScreenSpot-Pro accuracy.
 
 ## 🎉 News
-
+- [2026-06-13] **We open-source the VISTA checkpoints fine-tuned from Qwen3.5-4B and Qwen3.5-9B: [VISTA-4B](https://huggingface.co/inclusionAI/VISTA-4B) and [VISTA-9B](https://huggingface.co/inclusionAI/VISTA-9B).**
 - [2026-05-27] **We release the code for VISTA.**
 
 ## ✨ Highlights
