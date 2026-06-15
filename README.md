@@ -131,3 +131,18 @@ If you find VISTA useful, please cite:
 ## 🙏 Acknowledgements
 
 This repository builds on and benefits from several excellent open-source projects and resources, including [VLM-R1](https://github.com/om-ai-lab/VLM-R1).
+
+
+## Citation
+Please consider citing if you find our work useful:
+```plain
+@misc{qiu2026vista,
+      title={VISTA: View-Consistent Self-Verified Training for GUI Grounding},
+      author={Xinyu Qiu, Yunzhu Zhang, Heng Jia, Shuheng Shen, Changhua Meng, Linchao Zhu},
+      year={2026},
+      eprint={2606.14579},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2606.14579},
+}
+```
